@@ -1,4 +1,4 @@
-# LangPTune: End-to-end Training for Recommendation with Language-based User Profiles
+# LangPTune: Optimizing Language-based User Profiles for Recommendation
 
 ## Environment
 
